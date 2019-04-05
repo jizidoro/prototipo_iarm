@@ -1,0 +1,156 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:480px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:10px;
+  top:30px;
+  width:470px;
+  height:450px;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:470px;
+  height:450px;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:217px;
+  width:466px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2 {
+  position:absolute;
+  left:22px;
+  top:40px;
+  width:201px;
+  height:28px;
+}
+#u2_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:201px;
+  height:28px;
+}
+#u3 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:201px;
+  white-space:nowrap;
+}
+#u4 {
+  position:absolute;
+  left:23px;
+  top:90px;
+  width:427px;
+  height:290px;
+}
+#u4_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:427px;
+  height:290px;
+}
+#u5 {
+  position:absolute;
+  left:2px;
+  top:137px;
+  width:423px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u6 {
+  position:absolute;
+  left:120px;
+  top:405px;
+  width:100px;
+  height:25px;
+}
+#u6_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:25px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u6_ann {
+  position:absolute;
+  left:213px;
+  top:401px;
+  width:1px;
+  height:1px;
+}
+#u7 {
+  position:absolute;
+  left:99px;
+  top:152px;
+  width:292px;
+  height:38px;
+}
+#u7_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:292px;
+  height:38px;
+}
+#u8 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:292px;
+  white-space:nowrap;
+}
+#u9 {
+  position:absolute;
+  left:240px;
+  top:405px;
+  width:100px;
+  height:25px;
+}
+#u9_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:25px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u9_ann {
+  position:absolute;
+  left:333px;
+  top:401px;
+  width:1px;
+  height:1px;
+}
